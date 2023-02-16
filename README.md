@@ -53,9 +53,11 @@ señalando 10
 
 4. VIDEO
 
+https://youtu.be/9jN7OQ0PUms
 
 5. CONCLUSIONES
 
+Del presente laboratorio podemos obtener varias conclusiones y aprendizajes, la corriente alterna varía a lo largo del tiempo así obtenemos nuestra gráfica sinusoidal que muestran el valor pico, además el valor del voltaje mostrado en el osciloscopio varia de la del multímetro por un factor de error cuadrático medido llamado "RMS" (Root mean square)
 
 6. BIBLIOGRAFIA
 
