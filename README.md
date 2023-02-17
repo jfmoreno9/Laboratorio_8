@@ -11,11 +11,13 @@ Mike Josue Rodríguez Tomaselli
 
 1. - OBJETIVO. -
 
+Determinar experimentalmente las características de señales senoidales.
 
+Estudiar e interpretar los comportamientos del osciloscopio de acuerdo a los voltajes.
 
 2. MARCO TEORICO. -
 
-
+![image](https://user-images.githubusercontent.com/116831534/219749880-3652f1cb-4725-4e84-b7d6-6240430cd2f1.png)
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO. - 
 
@@ -61,20 +63,6 @@ Del presente laboratorio podemos obtener varias conclusiones y aprendizajes, la 
 
 6. BIBLIOGRAFIA
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Floyd, T. L. (2007). Principios de circuitos electricos (8.a ed.). Pearson
 
 
